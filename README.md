@@ -1,4 +1,4 @@
-# autocomplete
+# Trie Autocomplete
 Implementation of the autocomplete feature using the trie data-structure in C++.
 
  <p align="center"> 
